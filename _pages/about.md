@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a research assistant and pursuing my Ph.D. in Economics at the [Chair of Economic Policy and Economic Research](https://tu-dresden.de/bu/wirtschaft/vwl/wuw) at Dresden University of Technology. As an applied microeconomist, my primary focus is on political economy. My research examines the relationship between policy and voting behavior, with a particular emphasis on how various factors influence electoral outcomes. I explore topics such as the role of information in voting decisions and turnout, the effects of administrative failures on voter participation, and the impact of candidate characteristics. Ultimately, my work aims to provide valuable insights into the intersection of economics, politics, and social decision-making.
+I am currently working as a research assistant and pursuing my Ph.D. in Economics at the [Chair of Economic Policy and Economic Research](https://tu-dresden.de/bu/wirtschaft/vwl/wuw) at Dresden University of Technology. My research lies at the intersection of political economy and applied microeconomics, with a focus on how institutions, information, and environmental shocks shape political behavior.
+
+My job market paper studies how environmental disasters affect political assimilation and identity formation, combining detailed voter registration data with flood exposure raster data. In related projects, I examine the effects of administrative failures on voter participation and the behavioral consequences of a one-time all-postal voting election.
 
 
 [](/files/googled453e9d6f698f158.html)
