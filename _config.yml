@@ -83,7 +83,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marius Kroeper"
+  name             : "Marius Kröper"
   avatar           : "profile.png"
   bio              : Research Assistant/ <br> PhD Student <br> Economics
   location         : "Berlin/Dresden, GER"
@@ -106,13 +106,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "marius-kröper-2915931b6"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0002-5978-6450"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MKroeper"
+  twitter          : # "MKroeper"
   vine             :
   weibo            :
   xing             :
