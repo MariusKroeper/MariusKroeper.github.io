@@ -9,4 +9,4 @@ redirect_from:
 
  You can find my CV here:<br>
 [PDF Version](/files/CV_Marius_Kroeper_en.pdf) <br>
-(Last updated: Jul, 2025)
+(Last updated: March, 2026)
