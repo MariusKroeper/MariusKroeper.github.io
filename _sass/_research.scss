@@ -101,3 +101,7 @@
     margin: 0.2rem auto 0.9rem;
   }
 }
+
+.archive:has(> h2.research-section-title) > h1.page__title {
+  display: none;
+}
