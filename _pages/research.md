@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-## Work in Progress
-
 #### Dissertation Papers
 
 ### Should I Mail or Should I Go: Voting Behavior After a One-Time All-Postal Election
