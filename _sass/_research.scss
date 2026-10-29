@@ -1,79 +1,96 @@
-/* Research page only. Imported from assets/css/main.scss. */
+/* Compact research-page typography.
+   Save as _sass/_research.scss. The current research.md needs no changes.
+   Scoped to research by its existing .research-section-title headings. */
 
+/* The "Research" heading comes from layout: archive, not research.md. */
+.archive:has(> h2.research-section-title) > h1.page__title {
+  font-size: 1.32em;
+  line-height: 1.22;
+  font-weight: 700;
+  margin: 0 0 1.05rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid #dce0e3;
+}
+
+/* Section headings, e.g. Dissertation Papers */
 .archive h2.research-section-title {
-  margin: 0 0 1.1rem;
+  margin: 0 0 1.05rem;
   padding: 0;
   border: 0;
-  font-size: 1.42em;
+  font-size: 1.12em;
   line-height: 1.25;
   font-weight: 700;
 }
 
+/* Each research entry */
 .archive article.research-paper {
-  display: flow-root; /* Also contains optional floated paper figures */
-  margin: 0 0 2rem;
+  display: flow-root; /* contain optional floated figures */
+  margin: 0 0 1.65rem;
 }
 
 .archive article.research-paper h3.research-title {
-  margin: 0 0 0.06rem; /* Title and author line belong together */
-  font-size: 1.17em;
+  font-size: 1.02em;
   line-height: 1.32;
   font-weight: 700;
+  margin: 0 0 0.02rem;
+  padding: 0;
+  border: 0;
 }
 
 .archive article.research-paper p.research-meta {
-  margin: 0 0 0.65rem;
-  font-size: 0.84em;
-  line-height: 1.4;
+  font-size: 0.81em;
+  line-height: 1.35;
   color: #666;
+  margin: 0 0 0.50rem;
 }
 
 .archive article.research-paper p.research-abstract {
+  font-size: 0.85em;
+  line-height: 1.57;
   margin: 0;
-  font-size: 0.88em;
-  line-height: 1.64;
 }
 
 .archive article.research-paper p.research-abstract strong {
   color: #333;
 }
 
+/* Thin separators ONLY between the main sections */
 .archive hr.research-section-rule {
   display: block;
   height: 0;
-  margin: 2.35rem 0 1.35rem;
-  padding: 0;
   border: 0;
-  border-top: 1px solid #d9dde2;
+  border-top: 1px solid #dce0e3;
+  padding: 0;
+  margin: 1.85rem 0 1.1rem;
 }
 
+/* Applied/publication entries */
 .archive .research-publications p {
-  margin: 0 0 0.85rem;
-  font-size: 0.92em;
-  line-height: 1.55;
+  font-size: 0.87em;
+  line-height: 1.52;
+  margin: 0 0 0.75rem;
 }
 
-/* Optional paper figure: place <figure> after the author/PDF line.
-   It floats alongside the abstract on larger screens, stacks on mobile. */
+/* Optional small, clickable figure alongside an abstract */
 .archive article.research-paper figure.research-figure {
   width: 36%;
   float: right;
-  margin: 0.15rem 0 0.85rem 1.15rem;
+  margin: 0.12rem 0 0.75rem 1.1rem;
 }
 
 .archive article.research-paper figure.research-figure img {
+  display: block;
   width: 100%;
   height: auto;
-  display: block;
   border: 1px solid #e2e4e8;
   border-radius: 3px;
 }
 
 .archive article.research-paper figure.research-figure figcaption {
-  margin-top: 0.35rem;
   color: #666;
   font-size: 0.75em;
   line-height: 1.4;
+  margin-top: 0.3rem;
 }
 
 @media (max-width: 700px) {
