@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a research assistant and pursuing my Ph.D. in Economics at the [Chair of Economic Policy and Economic Research](https://tu-dresden.de/bu/wirtschaft/vwl/wuw) at Dresden University of Technology. My research lies at the intersection of political economy and applied microeconomics, with a focus on how institutions, information, and environmental shocks shape political behavior.
+I am a Ph.D. candidate in Economics at TU Dresden, where I work at the [Chair of Economic Policy and Economic Research](https://tu-dresden.de/bu/wirtschaft/vwl/wuw). I expect to submit my dissertation in November 2026.
 
-My job market paper studies how environmental disasters affect political assimilation and identity formation, combining detailed voter registration data with flood exposure raster data. In related projects, I examine the effects of administrative failures on voter participation and the behavioral consequences of a one-time all-postal voting election.
+My research lies at the intersection of political economy and applied microeconomics. I study how institutions and social environments shape political participation and preferences, with a particular interest in causal inference and large-scale administrative data.
+
+My dissertation comprises three papers on electoral participation in Germany. Using electoral data from Bavaria and Berlin, I examine how changes in voting procedures, administrative failures, and electoral stakes relate to turnout and voting behavior.
+
+My ongoing research increasingly focuses on political socialization and the influence of local communities. Drawing on longitudinal voter-registration records and detailed geographic data from North Carolina, I investigate how school assignments, family circumstances, and social environments relate to partisan identification and political behavior. Related work examines residential mobility and political sorting following environmental shocks.
 
 
 [](/files/googled453e9d6f698f158.html)
