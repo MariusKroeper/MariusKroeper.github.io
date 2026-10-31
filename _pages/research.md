@@ -33,7 +33,7 @@ author_profile: true
 **Abstract.** Do people become politically more similar to communities to which they are institutionally connected, even without moving? I reconstruct public-school reassignment events in North Carolina and link historical school-attendance boundaries to longitudinal voter-registration records, geocoded residences, and neighborhood characteristics. The design compares reassigned residents with residents remaining in the original school community, relating subsequent party-registration changes to the destination community's prior political orientation. Results suggest directional adaptation in adult party registration. Endogenous boundary changes, limited district-level variation, and incomplete validation of reassignment events mean the evidence does not yet establish a causal effect. The project examines whether institutional ties can shape political geography independently of residential mobility.
 
 ### A Year of College, a Lifetime of Party? Evidence from North Carolina Voter Registrations
-*With Sarah Listabarth · Work in progress*
+*With [Sarah Listabarth](https://sarahlistabarth.github.io/) · Work in progress*
 
 **Abstract.** How does exposure to a college environment before a first election relate to initial party affiliation? Using repeated North Carolina voter-registration records from 2008 to 2026, we identify likely college students from address histories and infer differences in the time spent at college before their first general election. We compare students with longer and shorter predicted exposure, controlling for their home areas and using inferred family connections for additional comparisons. In the main specifications, longer exposure is associated with a 1.2–1.4-percentage-point higher probability of Democratic registration, with some persistence into later elections. The study investigates political socialization during the transition into the electorate, while recognizing the limitations of inferred college attendance and nonrandom exposure.
 
@@ -43,7 +43,7 @@ author_profile: true
 **Abstract.** Migration depends not only on conditions where people live but also on the destinations available to them. Using longitudinal North Carolina voter-registration data, historical residential flows, and inundation from Hurricanes Matthew and Florence, I examine how damage to historically salient destinations affects subsequent migration from origins with no measured inundated housing. Greater destination exposure is followed by fewer moves, particularly over short distances, while the geography of disrupted destination opportunities is broader. Historical migration flows help measure which destinations matter to prospective movers, although they do not isolate a unique social-network mechanism. The project also investigates how the remaining movers sort into different socioeconomic and political environments; these latter comparisons are descriptive rather than causal estimates of neighborhood influence.
 
 ### Father Knows Best? The Political Power of Parenthood
-*With Sarah Listabarth · Preliminary research*
+*With [Sarah Listabarth](https://sarahlistabarth.github.io/) · Preliminary research*
 
 
 ## Policy and Applied Publications
