@@ -1,3 +1,4 @@
+
 ---
 layout: archive
 title: "Research"
@@ -13,7 +14,7 @@ author_profile: true
 ### Should I Mail or Should I Go: Voting Behavior After a One-Time All-Postal Election
 {: .research-title}
 
-*With [Valentin Lindlacher](https://www.lindlacher.com/)* · [Latest version (PDF)](/files/Kroeper_Lindlacher_ShouldIMail.pdf)
+*With [Valentin Lindlacher](https://www.lindlacher.com/)* · CESifo Working Paper No. 12075 (2025) · [Latest version (PDF)](/files/Kroeper_Lindlacher_ShouldIMail.pdf)
 {: .research-meta}
 
 **Abstract.** Can a one-time change in election administration affect voting behavior after regular rules return? During Bavaria's 2020 mayoral runoffs, postal voting was mandatory and ballots were automatically mailed to eligible voters. Subsequent elections returned to the usual voting rules. Using municipality-level election data from 2013 to 2025 and an event-study difference-in-differences design, we find a temporary increase in total turnout of approximately 0.4 percentage points and a persistent shift of about one percentage point from in-person to postal voting, lasting at least five years. We also document temporary changes in party support, including gains for the CSU. The results distinguish short-lived changes in overall participation from more durable changes in voting-mode choice.
@@ -70,7 +71,7 @@ author_profile: true
 ### A Year of College, a Lifetime of Party? Evidence from North Carolina Voter Registrations
 {: .research-title}
 
-*With Sarah Listabarth · Work in progress*
+*With [Sarah Listabarth](https://sarahlistabarth.github.io/) · Work in progress*
 {: .research-meta}
 
 **Abstract.** How does exposure to a college environment before a first election relate to initial party affiliation? Using repeated North Carolina voter-registration records from 2008 to 2026, we identify likely college students from address histories and infer differences in the time spent at college before their first general election. We compare students with longer and shorter predicted exposure, controlling for their home areas and using inferred family connections for additional comparisons. In the main specifications, longer exposure is associated with a 1.2–1.4-percentage-point higher probability of Democratic registration, with some persistence into later elections. The study investigates political socialization during the transition into the electorate, while recognizing the limitations of inferred college attendance and nonrandom exposure.
@@ -80,24 +81,27 @@ author_profile: true
 
 <article class="research-paper" markdown="1">
 
-### The Destination Side of Migration: Evidence from Hurricanes
+### The Politics of Parental Protection: Sex Offender Proximity and Political Preferences
 {: .research-title}
 
-*Single-authored · Work in progress*
+*With [Sarah Listabarth](https://sarahlistabarth.github.io/) · Preliminary research*
 {: .research-meta}
 
-**Abstract.** Migration depends not only on conditions where people live but also on the destinations available to them. Using longitudinal North Carolina voter-registration data, historical residential flows, and inundation from Hurricanes Matthew and Florence, I examine how damage to historically salient destinations affects subsequent migration from origins with no measured inundated housing. Greater destination exposure is followed by fewer moves, particularly over short distances, while the geography of disrupted destination opportunities is broader. Historical migration flows help measure which destinations matter to prospective movers, although they do not isolate a unique social-network mechanism. The project also investigates how the remaining movers sort into different socioeconomic and political environments; these latter comparisons are descriptive rather than causal estimates of neighborhood influence.
+**Abstract.** How do local safety threats shape parents' political preferences? We investigate whether exposure to nearby registered sex offenders affects political preferences, examining whether responses differ between mothers and fathers and by the gender of their children. The project explores how parental concerns about family safety and local social environments translate into political behavior.
 {: .research-abstract}
 
 </article>
 
 <article class="research-paper" markdown="1">
 
-### Father Knows Best? The Political Power of Parenthood
+### The Destination Side of Migration: Evidence from Hurricanes
 {: .research-title}
 
-*With Sarah Listabarth · Preliminary research*
+*Single-authored · Preliminary research*
 {: .research-meta}
+
+**Abstract.** How do disruptions to potential destinations affect migration decisions, even among people who are not directly exposed to a disaster? Using longitudinal North Carolina voter-registration data, historical migration flows, and inundation from Hurricanes Matthew and Florence, I investigate how damage to historically important destinations affects migration from unaffected origins. Preliminary evidence suggests fewer moves from origins whose typical destinations experienced greater exposure, particularly for shorter-distance moves. I also examine whether these disruptions change who moves and the socioeconomic and political characteristics of the neighborhoods migrants select into. These latter analyses are descriptive rather than causal estimates of neighborhood effects.
+{: .research-abstract}
 
 </article>
 
