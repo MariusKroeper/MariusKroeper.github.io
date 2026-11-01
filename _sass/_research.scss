@@ -1,210 +1,124 @@
-
 /*
- * Research page styling
- * File: _sass/_research.scss
- *
- * Works with the existing research.md.
- * No changes to Markdown or heading hierarchy required.
- *
- * Typography:
- * Page title:       28px
- * Section headings: 22px
- * Paper titles:     19px
- * Abstracts:        16px
- * Metadata:         15px
+ * Research page only.
+ * Uses the existing classes in _pages/research.md.
+ * Sizes: page 28px, sections 22px, titles 19px, body 16px, metadata 15px.
  */
 
-/* ============================================
-   1. PAGE TITLE
-   ============================================ */
-
-.archive:has(.research-section-title) > h1.page__title {
-  font-size: 28px;
-  line-height: 1.25;
-  font-weight: 700;
-  margin: 0 0 1.6rem;
-  padding: 0;
-  border: 0;
-}
-
-
-/* ============================================
-   2. SECTION HEADINGS
-   Dissertation Papers
-   Other Research Projects
-   Policy and Applied Publications
-   ============================================ */
-
-.archive h2.research-section-title {
-  font-size: 22px;
-  line-height: 1.3;
-  font-weight: 700;
-  margin: 0 0 1.3rem;
-  padding: 0;
-  border: 0;
-}
-
-
-/* ============================================
-   3. RESEARCH ENTRIES
-   ============================================ */
-
-.archive article.research-paper {
-  display: flow-root;
-  margin: 0 0 1.8rem;
-  padding: 0;
-}
-
-
-/* Paper titles */
-
-.archive article.research-paper h3.research-title {
-  font-size: 19px;
-  line-height: 1.35;
-  font-weight: 700;
-  margin: 0 0 0.4rem;
-  padding: 0;
-  border: 0;
-}
-
-
-/* Authors, paper links, and project status */
-
-.archive article.research-paper p.research-meta {
-  font-size: 15px;
-  line-height: 1.45;
-  color: #666;
-  margin: 0 0 0.75rem;
-  padding: 0;
-}
-
-
-/* Abstract text */
-
-.archive article.research-paper p.research-abstract {
-  font-size: 16px;
-  line-height: 1.6;
-  font-weight: 400;
-  margin: 0;
-  padding: 0;
-}
-
-
-/* Bold "Abstract." label */
-
-.archive article.research-paper p.research-abstract strong {
-  font-weight: 700;
-  color: #333;
-}
-
-
-/* ============================================
-   4. SECTION SEPARATORS
-   ============================================ */
-
-.archive hr.research-section-rule {
-  display: block;
-  height: 0;
-  border: 0;
-  border-top: 1px solid #dce0e3;
-  margin: 1.9rem 0 1.4rem;
-  padding: 0;
-}
-
-
-/* ============================================
-   5. POLICY AND APPLIED PUBLICATIONS
-   ============================================ */
-
-.archive .research-publications {
-  font-size: 16px;
-  line-height: 1.6;
-}
-
-.archive .research-publications p {
-  font-size: inherit;
-  line-height: inherit;
-  margin: 0 0 0.8rem;
-  padding: 0;
-}
-
-.archive .research-publications strong {
-  font-weight: 700;
-}
-
-
-/* ============================================
-   6. OPTIONAL PAPER FIGURES
-   ============================================ */
-
-.archive article.research-paper figure.research-figure {
-  width: 36%;
-  float: right;
-  margin: 0.15rem 0 0.8rem 1.2rem;
-}
-
-.archive article.research-paper figure.research-figure img {
-  display: block;
-  width: 100%;
-  height: auto;
-  border: 1px solid #e2e4e8;
-  border-radius: 3px;
-}
-
-.archive article.research-paper figure.research-figure figcaption {
-  color: #666;
-  font-size: 13px;
-  line-height: 1.4;
-  margin-top: 0.35rem;
-}
-
-
-/* ============================================
-   7. RESPONSIVE DESIGN
-   ============================================ */
-
-@media (max-width: 700px) {
-
-  /* Page title */
-  .archive:has(.research-section-title) > h1.page__title {
-    font-size: 26px;
-    margin-bottom: 1.3rem;
+/* The archive template also serves other pages: don't style those. */
+.archive:has(> h2.research-section-title) {
+  > h1.page__title {
+    font-size: 28px;
+    line-height: 1.25;
+    font-weight: 700;
+    border: 0;
+    padding: 0;
+    margin: 0 0 1.5rem;
   }
 
-  /* Section headings */
-  .archive h2.research-section-title {
-    font-size: 20px;
-    margin-bottom: 1.1rem;
+  > h2.research-section-title {
+    font-size: 22px;
+    line-height: 1.3;
+    font-weight: 700;
+    border: 0;
+    padding: 0;
+    margin: 0 0 1.25rem;
   }
 
-  /* Paper titles */
-  .archive article.research-paper h3.research-title {
-    font-size: 18px;
-    line-height: 1.4;
+  article.research-paper {
+    display: flow-root; // Contain any optional floated figure.
+    margin: 0 0 1.7rem;
+    padding: 0;
+
+    h3.research-title {
+      font-size: 19px;
+      line-height: 1.35;
+      font-weight: 700;
+      border: 0;
+      padding: 0;
+      margin: 0 0 0.35rem;
+    }
+
+    p.research-meta {
+      font-size: 15px;
+      line-height: 1.5;
+      color: #666;
+      padding: 0;
+      margin: 0 0 0.65rem;
+    }
+
+    p.research-abstract {
+      font-size: 16px;
+      line-height: 1.6;
+      font-weight: 400;
+      padding: 0;
+      margin: 0;
+
+      strong {
+        color: #333;
+        font-weight: 700;
+      }
+    }
+
+    figure.research-figure {
+      float: right;
+      width: 36%;
+      margin: 0.15rem 0 0.8rem 1.2rem;
+
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border: 1px solid #e2e4e8;
+        border-radius: 3px;
+      }
+
+      figcaption {
+        color: #666;
+        font-size: 13px;
+        line-height: 1.4;
+        margin-top: 0.35rem;
+      }
+    }
   }
 
-  /* Metadata */
-  .archive article.research-paper p.research-meta {
-    font-size: 14px;
+  > hr.research-section-rule {
+    display: block;
+    height: 0;
+    border: 0;
+    border-top: 1px solid #dce0e3;
+    padding: 0;
+    margin: 1.85rem 0 1.25rem;
   }
 
-  /* Abstracts */
-  .archive article.research-paper p.research-abstract {
+  .research-publications {
     font-size: 16px;
     line-height: 1.6;
-  }
 
-  /* Space between papers */
-  .archive article.research-paper {
-    margin-bottom: 1.5rem;
+    p {
+      font-size: inherit;
+      line-height: inherit;
+      margin: 0 0 0.75rem;
+    }
   }
+}
 
-  /* Figures */
-  .archive article.research-paper figure.research-figure {
-    float: none;
-    width: 100%;
-    max-width: 440px;
-    margin: 0.3rem auto 1rem;
+@media (max-width: 700px) {
+  .archive:has(> h2.research-section-title) {
+    > h1.page__title { font-size: 26px; }
+    > h2.research-section-title { font-size: 20px; }
+
+    article.research-paper {
+      margin-bottom: 1.5rem;
+
+      h3.research-title { font-size: 18px; }
+      p.research-meta { font-size: 14px; }
+
+      figure.research-figure {
+        float: none;
+        width: 100%;
+        max-width: 440px;
+        margin: 0.3rem auto 1rem;
+      }
+    }
   }
-
 }
