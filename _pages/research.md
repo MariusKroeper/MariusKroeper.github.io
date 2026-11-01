@@ -48,7 +48,7 @@ author_profile: true
 
 ## Policy and Applied Publications
 
-- **[Das Tempelhofer Feld: Zwischen lokalem Erholungsraum und stadtweiter Wohnungsfrage](https://www.ifo.de/DocDL/ifoDD_2604_19-24_Kr%C3%B6per.pdf)**. *ifo Dresden berichtet*, 33(4), 19–24, 2026. (Single-authored.)
+- **[Das Tempelhofer Feld: Zwischen lokalem Erholungsraum und stadtweiter Wohnungsfrage](https://www.ifo.de/DocDL/ifoDD_2604_19-24_Kr%C3%B6per.pdf)**. (Single-authored.) *ifo Dresden berichtet*, 33(4), 19–24, 2026.
 - **[Faktoren von Familiengründung, Kinderlosigkeit und Kinderreichtum in Ostdeutschland](https://www.ifo.de/publikationen/2023/monographie-autorenschaft/faktoren-von-familiengruendung-kinderlosigkeit-kinderreichtum-ostdeutschland)**. With Katharina Heisig and T. Scheurer. *ifo Dresden Studie* 89, 2023.
 - **[Was Ersteltern von Personen ohne Kinder in Ostdeutschland unterscheidet](https://www.ifo.de/DocDL/ifoDD_23-02_03-07_Heisig.pdf)**. With Katharina Heisig. *ifo Dresden berichtet*, 2023.
 - **[Faktoren der Kinderlosigkeit in Ostdeutschland](https://www.ifo.de/DocDL/ifoDD_22-06_10-18_Heisig.pdf)**. With Katharina Heisig and T. Scheurer. *ifo Dresden berichtet*, 2022.
