@@ -1,10 +1,10 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- Serif MK monogram, with outlined letters for consistent rendering. -->
   <rect width="64" height="64" rx="8" fill="#243447"/>
-  <text x="32" y="42"
-        text-anchor="middle"
-        font-family="Georgia, 'Times New Roman', serif"
-        font-size="26"
-        font-weight="700"
-        letter-spacing="1"
-        fill="#FFFFFF">MK</text>
+  <g transform="translate(5.77480 43) scale(0.014648438 -0.014648438)">
+    <path fill="#FFFFFF" d="M882 0H827L332 1133V100L512 73V0H35V73L207 100V1242L35 1268V1341H562L945 459L1336 1341H1874V1268L1702 1242V100L1874 73V0H1207V73L1387 100V1133Z"/>
+  </g>
+  <g transform="translate(34.89023 43) scale(0.014648438 -0.014648438)">
+    <path fill="#FFFFFF" d="M1469 1341V1268L1305 1242L862 851L1452 100L1577 73V0H1139L638 646L522 546V100L715 73V0H35V73L207 100V1242L35 1268V1341H695V1268L522 1242V696L1133 1242L1010 1268V1341Z"/>
+  </g>
 </svg>
