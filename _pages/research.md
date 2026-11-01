@@ -37,13 +37,13 @@ author_profile: true
 
 **Abstract.** How does exposure to a college environment before a first election relate to initial party affiliation? Using repeated North Carolina voter-registration records from 2008 to 2026, we identify likely college students from address histories and infer differences in the time spent at college before their first general election. We compare students with longer and shorter predicted exposure, controlling for their home areas and using inferred family connections for additional comparisons. In the main specifications, longer exposure is associated with a 1.2–1.4-percentage-point higher probability of Democratic registration, with some persistence into later elections. The study investigates political socialization during the transition into the electorate, while recognizing the limitations of inferred college attendance and nonrandom exposure.
 
-### The Destination Side of Migration: Evidence from Hurricanes
-*Single-authored · Work in progress*
-
-**Abstract.** Migration depends not only on conditions where people live but also on the destinations available to them. Using longitudinal North Carolina voter-registration data, historical residential flows, and inundation from Hurricanes Matthew and Florence, I examine how damage to historically salient destinations affects subsequent migration from origins with no measured inundated housing. Greater destination exposure is followed by fewer moves, particularly over short distances, while the geography of disrupted destination opportunities is broader. Historical migration flows help measure which destinations matter to prospective movers, although they do not isolate a unique social-network mechanism. The project also investigates how the remaining movers sort into different socioeconomic and political environments; these latter comparisons are descriptive rather than causal estimates of neighborhood influence.
-
-### Father Knows Best? The Political Power of Parenthood
+### The Politics of Parental Protection: Sex Offender Proximity and Political Preferences
 *With [Sarah Listabarth](https://sarahlistabarth.github.io/) · Preliminary research*
+
+### The Destination Side of Migration: Evidence from Hurricanes
+*Single-authored · Preliminary research*
+
+
 
 
 ## Policy and Applied Publications
