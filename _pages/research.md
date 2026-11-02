@@ -29,7 +29,7 @@ author_profile: true
 *Single-authored* · [Latest version (PDF)](/files/Kroeper_AfterBreakdown.pdf)
 {: .research-meta}
 
-**Abstract.** Can failures in election administration affect participation in later elections? I study the aftermath of Berlin's 2021 electoral breakdown using court-documented disruptions and harmonized precinct returns from 2016 to 2026. An event-study difference-in-differences design compares in-person, postal, and total turnout in affected and clean-control areas. In-person turnout remains lower in court-linked precincts, while postal voting increases in several subsequent elections. In the 2025 federal election, estimated in-person turnout is 1.77 percentage points lower and postal turnout 1.25 points higher; the net total-turnout difference is smaller and statistically imprecise. The evidence documents persistent differences in local voting-mode composition following the breakdown and its legal aftermath, without identifying individual switching or changes in perceived voting costs.
+**Abstract.** Berlin's 2021 electoral breakdown provides an opportunity to examine whether failures in election administration are followed by persistent changes in electoral participation. I study its aftermath using court-documented disruptions and harmonized precinct returns from 2016 to 2026. An event-study difference-in-differences design compares in-person, postal, and total turnout in affected and clean-control areas. In-person turnout remains lower in court-linked precincts, while postal voting increases in several subsequent elections. In the 2025 federal election, estimated in-person turnout is 1.77 percentage points lower and postal turnout 1.25 points higher; the net total-turnout difference is smaller and statistically imprecise. The evidence documents persistent differences in local voting-mode composition following the breakdown and its legal aftermath, without identifying individual switching or changes in perceived voting costs.
 {: .research-abstract}
 
 </article>
@@ -60,7 +60,7 @@ author_profile: true
 *Single-authored · Work in progress*
 {: .research-meta}
 
-**Abstract.** Do people become politically more similar to communities to which they are institutionally connected, even without moving? I reconstruct public-school reassignment events in North Carolina and link historical school-attendance boundaries to longitudinal voter-registration records, geocoded residences, and neighborhood characteristics. The design compares reassigned residents with residents remaining in the original school community, relating subsequent party-registration changes to the destination community's prior political orientation. Results suggest directional adaptation in adult party registration. Endogenous boundary changes, limited district-level variation, and incomplete validation of reassignment events mean the evidence does not yet establish a causal effect. The project examines whether institutional ties can shape political geography independently of residential mobility.
+**Abstract.** This project examines whether residents' political affiliations adapt to school communities to which they become institutionally connected, even without residential moves. I reconstruct public-school reassignment events in North Carolina and link historical school-attendance boundaries to longitudinal voter-registration records, geocoded residences, and neighborhood characteristics. The design compares reassigned residents with residents remaining in the original school community, relating subsequent party-registration changes to the destination community's prior political orientation. Results suggest directional adaptation in adult party registration. Endogenous boundary changes, limited district-level variation, and incomplete validation of reassignment events mean the evidence does not yet establish a causal effect. The project investigates how institutional ties may shape political geography independently of residential mobility.
 {: .research-abstract}
 
 </article>
@@ -73,7 +73,7 @@ author_profile: true
 *With [Sarah Listabarth](https://sarahlistabarth.github.io/) · Work in progress*
 {: .research-meta}
 
-**Abstract.** How does exposure to a college environment before a first election relate to initial party affiliation? Using repeated North Carolina voter-registration records from 2008 to 2026, we identify likely college students from address histories and infer differences in the time spent at college before their first general election. We compare students with longer and shorter predicted exposure, controlling for their home areas and using inferred family connections for additional comparisons. In the main specifications, longer exposure is associated with a 1.2–1.4-percentage-point higher probability of Democratic registration, with some persistence into later elections. The study investigates political socialization during the transition into the electorate, while recognizing the limitations of inferred college attendance and nonrandom exposure.
+**Abstract.** We examine how time spent in a college environment before a student's first general election relates to initial party affiliation. Using repeated North Carolina voter-registration records from 2008 to 2026, we identify likely college students from address histories and infer differences in the time spent at college before their first general election. We compare students with longer and shorter predicted exposure, controlling for their home areas and using inferred family connections for additional comparisons. In the main specifications, longer exposure is associated with a 1.2–1.4-percentage-point higher probability of Democratic registration, with some persistence into later elections. The study investigates political socialization during the transition into the electorate, while recognizing the limitations of inferred college attendance and nonrandom exposure.
 {: .research-abstract}
 
 </article>
@@ -86,7 +86,7 @@ author_profile: true
 *With [Sarah Listabarth](https://sarahlistabarth.github.io/) · Preliminary research*
 {: .research-meta}
 
-**Abstract.** How do local safety threats shape parents' political preferences? We investigate whether exposure to nearby registered sex offenders affects political preferences, examining whether responses differ between mothers and fathers and by the gender of their children. The project explores how parental concerns about family safety and local social environments translate into political behavior.
+**Abstract.** This project investigates whether exposure to nearby registered sex offenders affects parents' political preferences. We examine whether responses differ between mothers and fathers and by the gender of their children. More broadly, the project explores how parental concerns about family safety and local social environments translate into political behavior.
 {: .research-abstract}
 
 </article>
@@ -99,7 +99,7 @@ author_profile: true
 *Single-authored · Preliminary research*
 {: .research-meta}
 
-**Abstract.** How do disruptions to potential destinations affect migration decisions, even among people who are not directly exposed to a disaster? Using longitudinal North Carolina voter-registration data, historical migration flows, and inundation from Hurricanes Matthew and Florence, I investigate how damage to historically important destinations affects migration from unaffected origins. Preliminary evidence suggests fewer moves from origins whose typical destinations experienced greater exposure, particularly for shorter-distance moves. I also examine whether these disruptions change who moves and the socioeconomic and political characteristics of the neighborhoods migrants select into. These latter analyses are descriptive rather than causal estimates of neighborhood effects.
+**Abstract.** Hurricane damage may influence migration not only by displacing residents of affected areas but also by disrupting potential destinations for people living elsewhere. Using longitudinal North Carolina voter-registration data, historical migration flows, and inundation from Hurricanes Matthew and Florence, I investigate how damage to historically important destinations affects migration from unaffected origins. Preliminary evidence suggests fewer moves from origins whose typical destinations experienced greater exposure, particularly for shorter-distance moves. I also examine whether these disruptions change who moves and the socioeconomic and political characteristics of the neighborhoods migrants select into. These latter analyses are descriptive rather than causal estimates of neighborhood effects.
 {: .research-abstract}
 
 </article>
