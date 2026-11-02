@@ -13,7 +13,7 @@ author_profile: true
 ### Should I Mail or Should I Go: Voting Behavior After a One-Time All-Postal Election
 {: .research-title}
 
-*With [Valentin Lindlacher](https://www.lindlacher.com/)* · CESifo [Working Paper](https://doi.org/10.65864/5v2jtt32jl) No. 12075 (2026) · [Latest version (PDF)](/files/Kroeper_Lindlacher_ShouldIMail.pdf)
+*With [Valentin Lindlacher](https://www.lindlacher.com/)* · CESifo [Working Paper](https://doi.org/10.65864/5v2jtt32jl) No. 12075 (2026) %· [Latest version (PDF)](/files/Kroeper_Lindlacher_ShouldIMail.pdf)
 {: .research-meta}
 
 **Abstract.** Can a one-time change in election administration affect voting behavior after regular rules return? During Bavaria's 2020 mayoral runoffs, postal voting was mandatory and ballots were automatically mailed to eligible voters. Subsequent elections returned to the usual voting rules. Using municipality-level election data from 2013 to 2025 and an event-study difference-in-differences design, we find a temporary increase in total turnout of approximately 0.4 percentage points and a persistent shift of about one percentage point from in-person to postal voting, lasting at least five years. We also document temporary changes in party support, including gains for the CSU. The results distinguish short-lived changes in overall participation from more durable changes in voting-mode choice.
