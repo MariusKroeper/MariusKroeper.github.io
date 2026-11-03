@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -23,13 +23,13 @@ author_profile: true
 
 <article class="research-paper" markdown="1">
 
-### After the Breakdown: Persistent Changes in Voting Modes and Electoral Participation
+### After the Electoral Breakdown: Voting and Precinct Organization in Berlin
 {: .research-title}
 
 *Single-authored* · [Latest version (PDF)](/files/Kroeper_AfterBreakdown.pdf)
 {: .research-meta}
 
-**Abstract.** Berlin's 2021 electoral breakdown provides an opportunity to examine whether failures in election administration are followed by persistent changes in electoral participation. I study its aftermath using court-documented disruptions and harmonized precinct returns from 2016 to 2026. An event-study difference-in-differences design compares in-person, postal, and total turnout in affected and clean-control areas. In-person turnout remains lower in court-linked precincts, while postal voting increases in several subsequent elections. In the 2025 federal election, estimated in-person turnout is 1.77 percentage points lower and postal turnout 1.25 points higher; the net total-turnout difference is smaller and statistically imprecise. The evidence documents persistent differences in local voting-mode composition following the breakdown and its legal aftermath, without identifying individual switching or changes in perceived voting costs.
+**Abstract.** How does voting change after an electoral breakdown? Using court-documented exposure and Berlin election returns from 2014 to 2026, I compare turnout in court-linked and clean-control precincts. Court-linked areas exhibit persistently lower in-person turnout and higher postal turnout in the 2024 European and 2025 federal elections. Between the 2017 and 2025 federal elections, treated-control differences change by -1.77 percentage points in person and +1.25 by post; the total-turnout estimate is smaller and imprecise (-0.52 points). Pre-breakdown changes between the 2014 and 2019 European elections were substantially smaller. Complementary geographic evidence shows a steeper association between baseline precinct electorate size and subsequent catchment reorganization in court-linked areas. The findings distinguish persistent voting-mode differences from changes in electoral administration.
 {: .research-abstract}
 
 </article>
