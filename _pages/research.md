@@ -23,7 +23,7 @@ author_profile: true
 
 <article class="research-paper" markdown="1">
 
-### After the Electoral Breakdown: Voting and Precinct Organization in Berlin
+### After Berlin's Electoral Breakdown: Voting and Precinct Organization
 {: .research-title}
 
 *Single-authored* · [Latest version (PDF)](/files/Kroeper_AfterBreakdown.pdf)
