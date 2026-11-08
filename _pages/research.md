@@ -39,7 +39,7 @@ author_profile: true
 ### When Votes Are Already Fixed: Electoral Reopening and Voter Turnout
 {: .research-title}
 
-*With [Valentin Lindlacher](https://www.lindlacher.com/)* · [Latest version (PDF)](/files/Kroeper_Lindlacher_BerlinFixedVotes.pdf)
+*With [Valentin Lindlacher](https://www.lindlacher.com/)* 
 {: .research-meta}
 
 **Abstract.** Does turnout differ when part of an election result is already legally fixed? Berlin's 2024 partial repeat of the 2021 federal election allowed voters in selected districts to replace their ballots, while valid votes elsewhere remained in the tally. We reconstruct retained first-vote totals and examine turnout in 294 repeat-affected reporting areas across twelve constituencies. Turnout declined less where a larger share of the constituency electorate could vote again. A one-percentage-point higher repeat share is associated with a 0.055-percentage-point smaller turnout decline, or 0.039 points after adjusting for an extrapolated historical differential trend. The geographic allocation of the repeat and earlier turnout trajectories limit causal interpretation. The findings concern the legally revisable scope of an election, not directly observed beliefs about pivotality.
